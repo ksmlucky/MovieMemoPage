@@ -1,5 +1,5 @@
 # MovieMemoPage
-Python, MongoDB, Flask, html을 사용하여 만든 책 리뷰 페이지입니다.
+Python, MongoDB, Flask, html을 사용하여 만든 영화 한줄평 및 코멘트 남기기 페이지입니다.
 
 ## 페이지 안내
 ![](https://images.velog.io/images/ksmlucky/post/556ec579-0455-4f71-85ca-543797624e59/image.png)
